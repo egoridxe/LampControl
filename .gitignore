@@ -1,0 +1,14 @@
+# Virtual environments & caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# PyInstaller intermediate build artifacts
+build/
+dist/
+*.spec
+
+# Local user state
+config.json
